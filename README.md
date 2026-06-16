@@ -62,14 +62,6 @@ prints Tables I–VI and the same-feature baselines, and writes all figures to
 - The simulated channel is a simplified single-qubit abstraction, not a
   validated network protocol.
 
-## Citation
-```bibtex
-@inproceedings{haider2026delegated,
-  title     = {Accuracy Is Not Enough: Reliability and Explainability of
-               Delegated Quantum Inference for Retinal OCT Classification
-               over a Noisy Quantum Link},
-  author    = {Haider, Syed Mujtaba},
-  booktitle = {Proc. NetQSA},
-  year      = {2026}
-}
+  
+
 ```
