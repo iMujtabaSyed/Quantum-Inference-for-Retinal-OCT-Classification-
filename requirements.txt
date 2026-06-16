@@ -1,0 +1,6 @@
+torch>=2.0
+torchvision>=0.15
+pennylane>=0.34
+scikit-learn>=1.2
+numpy>=1.24
+matplotlib>=3.6
